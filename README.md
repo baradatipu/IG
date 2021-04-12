@@ -6,7 +6,7 @@
 
 ## Default or Basic Usage
 	$ git clone https://github.com/baradatipu/IG.git
-	$ cd toolsig
+	$ cd IG
 	$ npm i
 	$ node index.js
 
@@ -15,7 +15,7 @@
 	$ pkg install git
 	$ pkg install nodejs-lts
 	$ git clone https://github.com/baradatipu/IG.git
-	$ cd toolsig
+	$ cd IG
 	$ npm i
 	$ node index.js
 
