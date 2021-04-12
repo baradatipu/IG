@@ -5,7 +5,7 @@
 ## All Tutorial (TERMUX) [https://youtu.be/]
 
 ## Default or Basic Usage
-	$ git clone https://github.com/
+	$ git clone https://github.com/baradatipu/IG.git
 	$ cd toolsig
 	$ npm i
 	$ node index.js
@@ -14,7 +14,7 @@
 	$ pkg upgrade && pkg update
 	$ pkg install git
 	$ pkg install nodejs-lts
-	$ git clone https://github.com/
+	$ git clone https://github.com/baradatipu/IG.git
 	$ cd toolsig
 	$ npm i
 	$ node index.js
