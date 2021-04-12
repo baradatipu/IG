@@ -38,7 +38,3 @@
 	⚠ Use this Tool for personal use, not for sale
 	⚠ I am not responsible for your account using this tool
 	⚠ Make sure your account has been verified (Email & Ph)
-
-## License
-	☑ This project is licensed under MIT License 2017-2020. https://opensource.org/licenses/MIT
-
