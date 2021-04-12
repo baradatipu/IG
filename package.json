@@ -1,6 +1,6 @@
 {
   "name": "IG",
-  "version": "1.0",
+  "version": "3.0.0",
   "description": "Open Source Instagram Tools",
   "main": "index.js",
   "scripts": {
