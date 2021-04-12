@@ -1,6 +1,6 @@
 {
-  "name": "toolsig",
-  "version": "3.0.0",
+  "name": "IG",
+  "version": "1.0",
   "description": "Open Source Instagram Tools",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/officialputuid/toolsig.git"
+    "url": "git+https://github.com/baradatipu/IG.git"
   },
-  "author": "officialputuid",
+  "author": "baradatipu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/officialputuid/toolsig/issues"
+    "url": "https://github.com/baradatipu/IG/issues"
   },
-  "homepage": "https://github.com/officialputuid/toolsig#readme",
+  "homepage": "https://github.com/baradatipu/IG#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "colors": "^1.4.0",
